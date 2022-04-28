@@ -6,7 +6,7 @@ Project ini telah dibuat oleh:
 ### Universitas Gunadarma
 ### delza.roket50@gmail.com
 
-#OUTPUT Final Project 1
+# OUTPUT Final Project 1
 
 ## INDONESIA PAGE
 ![Indonesia-page](https://user-images.githubusercontent.com/99465619/165860603-fc2b4ed8-3635-44a5-9579-55fe98106ce5.png)
