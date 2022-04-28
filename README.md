@@ -6,3 +6,6 @@ Project ini telah dibuat oleh:
 ### Universitas Gunadarma
 ### delza.roket50@gmail.com
 
+#OUTPUT Final Project 1
+
+https://github.com/Delzaananjaya/final-project-1-DelzaAnanjaya/issues/1#issue-1219411406
