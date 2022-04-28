@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+html {
+  @apply bg-text-light;
+}
+
+button > * {
+  min-width: 1.5rem;
+  min-height: 1.5rem;
+  @apply inline-block m-auto;
+}
+
+button {
+  min-width: 48px;
+  min-height: 48px;
+  @apply inline-block;
+}
+
+.special-list {
+  @apply relative text-center;
+}
+
+.special-list:hover::after,
+.special-list-active::after {
+  content: '';
+  @apply absolute w-4/12 transform -translate-x-1/2 border-b-2 border-white border-solid md:w-8/12 -bottom-1 left-1/2;
+}
+
+.heading-2 {
+  @apply w-full text-3xl font-bold text-center uppercase;
+}
+
+.heading-3 {
+  @apply pt-6 text-2xl font-medium;
+}
+
+.heading-border-2 {
+  @apply block w-full pb-6 border-b-2 border-primary-light;
+}
+
+.heading-border-3 {
+  @apply block mb-6 border-b-4 w-11 border-primary-light;
+}

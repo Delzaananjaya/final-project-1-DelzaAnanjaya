@@ -1,0 +1,17 @@
+import { Aside, Error, Loading, NewsItem, NewsLists } from '../components';
+<div className='flex flex-col p-10 lg:flex-row lg:justify-between lg:p-0 lg:m-14'>
+        <section className='lg:w-6/12'>
+          <NewsLists type='headlines'>
+            {mergingArray[2].map((item) => (
+              <NewsItem
+                {...item}
+                key={item.url}
+                length={68}
+                size='2rem'
+                type='headlines'
+              />
+            ))}
+          </NewsLists>
+        </section>
+        <Aside news={mergingArray[1]} />
+      </div>
