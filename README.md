@@ -7,6 +7,7 @@ Project ini telah dibuat oleh:
 ### delza.roket50@gmail.com
 ### Link Deploy Netlify : https://6288e60583a2300c0d171e37--idnnews-delzaananjaya.netlify.app/
 ### Data API Tidak Muncul sudah menggunakan data dummy untuk deploy tetap tidak muncul juga
+### Jadi saya sertakan Screenshoot Outputnya 
 
 # OUTPUT Final Project 1
 
